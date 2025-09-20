@@ -3,3 +3,4 @@ Host folder  on local host or your domain bucket or cloud bucket like AWS GOOGLE
 
 
 1. Recommend ABC site to be hosted on all schools
+www.schoolname.org/~excercise
